@@ -22,7 +22,7 @@
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://porfolio-3d.onrender.com)
+[Live Demo](https://porfolio-3d.onrender.com)
 
 ## 📝 Description
 
